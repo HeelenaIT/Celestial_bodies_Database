@@ -58,4 +58,4 @@ If you are saving your progress on [freeCodeCamp.org](https://www.freecodecamp.o
 ![Testing](test.jpg)
 
 ### Submission
-![Submission](submission.jpg)
+![Submission](submission .jpg)
